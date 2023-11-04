@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "pokemon-141102",
+  "private_key_id": "037e1da9368a1189b0d1f33b23cb648898d6630f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/3RehszibOK8U\n9Zou/qYnBlCd6rza53G86cGkBha/996kQMD8SmXiVzo8s2t7689jKxUmG7flWFZx\nKahnQguhWhglRLwsZN2J/TpIGoMTIUSjgSvNtvD4J3H5aFTHZa52ZGtA9nKB3xTZ\nWpkvDjb4cm58BQ5hht3ERBJxzhtImNZqsOf7w1mqUz7VEMAexjLJ1t5Gskxxwzwa\nvOTekipIVgbyF5kBFuEVHBjlaTOADF7Pvk6M4dBCLXewkr4Bn0Uripjpm5i0W2Ju\nf59mIkSdeZmJH0DwnSDQ5uUklH/JQge6CIfTejRYrUmB7XDnYUL2b+Um8PCX5hGb\n7BBMu41FAgMBAAECggEAB9lqjUB7nooP9kpipO02bJ6gWgg6SAsI8a1vMR/YpWuQ\nGGXXygUx1t6HsOe24X/RC7cTAJdItjbKI+C26tveWvBd0C8tiElrcNOYeKOxB219\n1TdEd1WL1TMpQVwIf+HZOdm7iOcBjJj3ouQceTraeok/8ONKESkHK0TiVkqUKNZE\naKyQT6JikwHAaAK6t1g6SY5IUBOipdA7ZhJtzWbvKToWfRvYCEJchwaKKBOw9r0J\nuzOIh3n45NmKhCNZj5D+/Lvc/OKAKo+pi2hABCsz2IWHS5OIXdzN6/JHQucu3Gjq\nUuyRMFPdAaqCr3IksAOB7GrkujIoWzD5JYnDw11ffwKBgQDgtaFjjZFQ13fKSBP3\n0QjnBGTnZopdfDcV5H/7SGvyClZ2ttqZcOdr8Zeek7T+Qm291HWcPGe1IQqABXum\njcYzPT9BcY2iWHW5UtnQ1+QSmB769/+gMq2K16QH3z0wMhXwi5XVPcajvbA9UFCX\nHHOHVq3mXrzHjkT45+SKkmlllwKBgQDalJV2YDh5tU6AhkJNeffkh4j8312CMgvJ\ncGsKq7y5KGFEdunyxl1voKeU2giDfnNxTEIeQSb0XYS8mKjGv1YEeljc5UkjwRNO\nZQMxxJkv7kaJxh2tDZUXMu2s9MbGhNhpPyLA4pcgnpllUDsMu42ze8dsfzQnw1cA\nwJwHqjQXgwKBgQCtal6npqxb2D1hRajrWk3lg1Wf41mq9d7JLXO7aFOuEl5R9aHU\nQvbGLkdVoSZQBtIMavds4I0kkuA4loKrscQg7QZxKgIlJOGNaSwh6UrhMrbN9jA3\n4IRfnzW+wYDGPhECd6blT2yKFyz41I+tXs6lxrYkED7ePqRp9wRAEOf39wKBgFbo\nwUziEVKDPoVn3LEFkAUzxsoU3g9IattbcZQ6mL1eSt54EalQKhKaZEeRMdVmz+v6\nkEeLTDvZe0+pu2Ha7g61vuOF30DyIgUHsO925hniufVJ6r7GKcOholMkuGxyocGn\nMuBSuBhmN0PLVM9JO5xj2PVQ1qIAz3UjIGcDy9aVAoGAKq8iKd0s230UfWRtCwGQ\nBznIrC2vztCQQD2VZhQOv7TSzFH6SW7l++1REO+XiTXLf2/1l/9PXNSCtu+uxbMV\n081uB/Tdw6G7niT+yT5n2aHBGl5RQGxX3tJ4JMSdo3gTZRnvOWsR6sO3Q/4vWuxQ\n6vL7/VHSDpj5ljByIGyG98s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "whatsup-dood@pokemon-141102.iam.gserviceaccount.com",
+  "client_id": "108595955353854608483",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whatsup-dood%40pokemon-141102.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
